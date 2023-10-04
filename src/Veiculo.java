@@ -14,14 +14,6 @@ public class Veiculo{
         this.marca = marca; this.modelo = modelo;this.cor = cor;this.ano = ano;
     }
     
-    
-    
-    
-    
-    
-    
-    
-    
     public String getMarca() {
         return marca;
     }
@@ -57,5 +49,4 @@ public class Veiculo{
         this.placa = placa;
     }
     
-
 }
