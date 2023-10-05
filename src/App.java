@@ -1,5 +1,3 @@
-package Execution;
-
 import java.util.Scanner;
 
 public class App {
